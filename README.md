@@ -1,2 +1,2 @@
 # Linear_Regression_project
-Liner Regression project built around Medical cost data
+Linear Regression project built around medical cost data
